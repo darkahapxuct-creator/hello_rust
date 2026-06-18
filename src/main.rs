@@ -1,6 +1,3 @@
 fn main() {
-    println!("Hello, world!");
-    }
-    fn main() {
-    println!("Hello, world!");
+    println!("Тест компиляции успешно пройден!");
 }
